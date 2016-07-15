@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml>
+  <Document>
+    <name>pulkit</name>
+    <Style id="myStyle">
+      <IconStyle id="">
+        <scale>1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/cabs.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark id="2011-01-06 15:01:03">
+      <name>03:01:03 PM</name>
+      <description>Name:pulkit_carrier
+ Date:2011-01-06
+ Alerts: Speed Less than 8 Kmph from 03:01:03 PM to 03:01:52 PM 
+Sattlite:8
+HDOP:1.2
+</description>
+      <styleUrl>#myStyle</styleUrl>
+      <Point>
+        <coordinates>73.9236,18.50313,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
